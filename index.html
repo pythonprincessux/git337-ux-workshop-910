@@ -35,12 +35,16 @@
                 </div>
             </fieldset>
             <fieldset>
-                <legend>F3 · Request choices</legend>
-                <p class="help">Use an appropriate radio, checkbox, or select structure for the task.</p>
-                <label class="choice">
-                    <input type="radio" name="request_type" value="option-a"> Replace with option A</label>
-                <label class="choice"><input type="radio" name="request_type" value="option-b"> Replace with option
-                    B</label>
+                <legend>F3 · Workshop choices</legend>
+                <div class="field">
+                    <label for="experience">UX experience level (required)</label>
+                    <select id="experience" name="experience" required>
+                        <option value="">Choose an experience level</option>
+                        <option value="beginner">Beginner</option>
+                        <option value="intermediate">Intermediate</option>
+                        <option value="advanced">Advanced</option>
+                    </select>
+                </div>
             </fieldset>
             <div class="field">
                 <label for="details">Request details</label>
