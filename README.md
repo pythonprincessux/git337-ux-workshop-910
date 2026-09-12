@@ -1,3 +1,12 @@
+## Project Links
+
+**Repository:** https://github.com/pythonprincessux/git337-ux-workshop-910
+
+**Published Prototype:** https://pythonprincessux.github.io/git337-ux-workshop-910/
+
+
+
+
 START HERE: This folder is the required scaffold for the Module 3 Assessment, not a finished form and not a repair exercise.
 
 1. Rename this folder for your project and place it in a new repository or approved course workspace.
