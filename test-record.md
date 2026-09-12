@@ -56,3 +56,9 @@
 ## Evidence
 
 I stored screenshots from the completed tests in the `evidence` folder.
+
+- keyboard navigation and visible focus
+- required field validation
+- invalid email validation
+- GET query string submission
+- accessibility tree screenshots for text inputs, select controls, grouped controls, and checkboxes
